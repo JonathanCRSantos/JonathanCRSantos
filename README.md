@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá :smile:
+### Quem sou eu?
 
-<!--
-**JonathanCRSantos/JonathanCRSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+>### Prazer, me chamo Jonathan César e sou:
+>
+>* Graduado no curso Integrado de Informática (ECIT-Nicéa Claudino Pinheiro | 2018-2020).
+>
+>* Graduando Análise e Desenvolvimento de Sistemas-ADS (IFPB-Cajazeiras | 2021-2023).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+>### Interesses:
+>* Pretendo aprofundar ainda mais meus conhecimentos em HTML e CSS.
+>
+>* Entender melhor JavaScript.
+>
+>* Aprofundar os conhecimentos em Bootstrap.
+>
+>* Aprender novos Frameworks.
