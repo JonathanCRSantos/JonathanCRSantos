@@ -14,7 +14,7 @@
 >### Interesses:
 >* Pretendo aprofundar ainda mais meus conhecimentos em HTML e CSS.
 >
->* Entender melhor JavaScript.
+>* Aprofundar conhcimentos em JavaScript.
 >
 >* Aprofundar os conhecimentos em Bootstrap.
 >
