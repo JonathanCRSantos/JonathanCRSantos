@@ -7,7 +7,7 @@
 >
 >* Graduado no curso Integrado de Informática (ECIT-Nicéa Claudino Pinheiro | 2018-2020).
 >
->* Graduando Análise e Desenvolvimento de Sistemas-ADS (IFPB-Cajazeiras | 2021-2023).
+>* Graduando em Análise e Desenvolvimento de Sistemas-ADS (IFPB-Cajazeiras | 2021-2023).
 
 <br>
 
